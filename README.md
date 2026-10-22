@@ -715,6 +715,7 @@
 
 ## Social
 
+- [Aura](https://t.me/you_aura_bot) — Random 1-on-1 video chat with people worldwide, language filters and mini-games, free in Telegram
 - [Pollo](https://t.me/pollovotebot) — NEW: Use opinions to connect 👋
 - [Tonation](https://t.me/tonationme) — Crypto Donations for Streamers Without Borders 🚀 Instant payouts, low fees, and TON support
 - [Tonkol](https://t.me/tonkoltrades) — Tonkol is a real-time tracker of KOLs and Traders on TON
